@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ssslakter
-- 👀 I’m interested in advanced math, especially geometric algebra and dynamical systems 
+- 👀 I’m interested in advanced math, especially machine learning and dynamical systems 
 - 🌱 I’m currently learning python and c++ a little 
 
 
