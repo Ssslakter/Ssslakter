@@ -1,7 +1,5 @@
 ### 👋 Hi, I'm @Ssslakter!
 
-🎓 I'm currently studying software engineering at Tomsk State University.
-
 🌱 My main stack of technologies, includes:
 - ASP.NET
 - Python
@@ -16,7 +14,7 @@
 
 If you're interested in collaborating on ML projects, especially those involving generative AI, I would be delighted to connect!
 
-💬 Feel free to reach out to me via [Email](mailto:slava.chaunin@gmail.com) or [Telegram](https://t.me/ssslakter) for collaboration opportunities.
+💬 Feel free to reach out to me via [Telegram](https://t.me/ssslakter) for collaboration opportunities.
 
 <!---
 Ssslakter/Ssslakter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
