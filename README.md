@@ -1,9 +1,8 @@
 ### Hello there! 👋 
 I'm @Ssslakter, this is my nickname in a world wide web.
+Currently navigating university life, have a big interest in AI and generative models. Open to collaborating on exciting AI projects, so if you have ideas, let's discuss!🚀
 
-If you're interested in working together on generative AI research, feel free to connect with me via [Telegram](https://t.me/ssslakter) or check out my [Twitter](https://twitter.com/ssslakter) for collaboration opportunities.
-
-Currently navigating university life, I have a keen interest in AI, particularly generative models, especially diffusion-based. Open to collaborating on any AI projects, so if you have ideas, let's discuss!🚀
+If you want to collab feel free to connect with me via [Telegram](https://t.me/ssslakter) or check out my [Twitter](https://twitter.com/ssslakter).
 
 <!---
 Ssslakter/Ssslakter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
